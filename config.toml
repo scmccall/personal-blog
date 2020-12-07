@@ -8,33 +8,22 @@ title = "Sam McCall"
 
 
 # Theme from https://themes.gohugo.io/onepress/
-theme = "onepress"
+theme = "hago"
 
-# Disable comments by leaving disqusShortname empty
-disqusShortname = ""
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+# disqusShortname = "YOUR_DISQUS_SHORT_NAME"
+# googleAnalytics = "UA-XXXXXXXXX-X"
+paginate = 4
 
-copyright = "Copyright © 2020, Sam McCall"
 
-[params]
-  author = "Sam Mccall"
-  bio = "Developer"
-  # logo = "images/path/to/image"
-  # avatar = "images/path/to/avatar"
-  # opengraphImage = "images/path/to/avatar"
-  enableRSS = true
+[Params]
+  description = "Sam McCall: Developer, Human, Not a Spy"
+  subtitle = "YOUR_SUB_TITLE"
+  logo = "/images/logo.png"
+  favicon = "/favicon.ico"
+  comments = true
 
-  customCSS = false # What does this mean?
-  readMore = "Read More..."
-
-  # Socials
-  github = "https://github.com/scmccall/"
-  linkedin = "https://www.linkedin.com/in/sammccall/"
-
-  widgets = true
-
-  # Author box and Share button
-  authorCard = false
-  shareButton = false
-
-[taxonomies]
-  tag = "tags"
+[Author]
+  name = "Sam"
+  website = "https://smccall.com"
