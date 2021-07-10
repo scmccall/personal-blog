@@ -1,9 +1,9 @@
-[submodule "themes/onepress"]
-	path = themes/onepress
-	url = https://github.com/ijsucceed/onepress.git
-[submodule "themes/hago"]
-	path = themes/hago
-	url = https://github.com/gyuha/hago.git
-[submodule "hugo-theme-noteworthy"]
+# [submodule "themes/onepress"]
+# 	path = themes/onepress
+# 	url = https://github.com/ijsucceed/onepress.git
+# [submodule "themes/hago"]
+# 	path = themes/hago
+# 	url = https://github.com/gyuha/hago.git
+[submodule "themes/noteworthy"]
 	path = themes/noteworthy
 	url = https://github.com/kimcc/hugo-theme-noteworthy.git
