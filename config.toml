@@ -41,7 +41,7 @@ metaDataFormat = "yaml"
 
   # Add links to your accounts. Remove the ones you don't want to include.
 	# Main
-	email = "smccall@smccall.com"
+	email = "mailto:smccall@smccall.com"
   linkedin = "https://www.linkedin.com/in/sammccall/"
   github = "https://github.com/scmccall"
   # facebook = "#"

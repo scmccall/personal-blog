@@ -1,7 +1,7 @@
 +++
 title = "My Blog Post"
 date = 2020-11-26T12:53:34-05:00
-draft = false
+draft = true
 +++
 
 My mother loves gardening. She converted the mudroom in her house into a plantroom/ greenhouse. Naturally, she has a lot of growing lights hanging in the room, all attached to a single power strip. She has the power strip attached to a timer, but the outlet is in a really inconvenient location and the timer itself is no less than 20 years old.
