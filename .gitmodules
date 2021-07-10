@@ -5,5 +5,5 @@
 	path = themes/hago
 	url = https://github.com/gyuha/hago.git
 [submodule "hugo-theme-noteworthy"]
-	path = hugo-theme-noteworthy
+	path = themes/noteworthy
 	url = https://github.com/kimcc/hugo-theme-noteworthy.git
